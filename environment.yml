@@ -1,0 +1,12 @@
+name: Advanced_Acoustics_ML_module
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - tensorflow
+  - matplotlib
+  - scikit-learn
+  - librosa
+  - tqdm
+prefix: /Users/xen/miniconda3/envs/Advanced_Acoustics_ML_module
